@@ -1,0 +1,18 @@
+.characters {
+    border: 2px solid gold;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gold;
+    width: 40%;
+    margin: 10px;
+    background-color: black;
+    color: gold;
+    opacity: .75;
+}
+
+.cards {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
